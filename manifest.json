@@ -1,0 +1,26 @@
+{
+    "name": "Kwami",
+    "short_name": "Kwami",
+    "version": "0.2.8",  
+    "icons": [
+        {
+            "src": "images/imp/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/imp/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "images/imp/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "apple-touch-icon"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#4a4e69",
+    "background_color": "#FFFFFF"
+}
